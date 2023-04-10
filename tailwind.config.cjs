@@ -4,10 +4,11 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				poppins: ['Poppins', 'sans-serif'],
+				worksans: ['Work Sans', 'sans-serif'],
 				sli: ["Sli", "serif"],
 			  },
 		},
 	},
 	plugins: [],
 }
+
