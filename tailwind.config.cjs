@@ -7,10 +7,7 @@ module.exports = {
 				worksans: ['Work Sans', 'sans-serif'],
 				sli: ["Sli", "serif"],
 			  },
-			  cursor: {
-				default: 'url(/public/Selector.png), default',
-				pointer: 'url(/public/Selector.png), pointer',
-			  },
+			  
 		},
 	},
 	plugins: [],

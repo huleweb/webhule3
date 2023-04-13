@@ -16,10 +16,18 @@ import Feature from '../components/Feature.astro';
 	<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/kursor/dist/kursor.css">
 	<title>Hule Distribuidora</title>
 </head>
 <body>
 	<Navbar/>
 		<Feature/>
+
+		<script src="https://unpkg.com/kursor"></script>
+		<script>
+			new kursor({
+				type: 1
+			})
+		</script>
 </body>
 </html>
