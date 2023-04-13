@@ -9,10 +9,8 @@
   src: url("../../public/Sli.woff");
 
   
-}
+};
 
 body {
-    cursor{
-        src: url("../../public/Selector.png"), auto;
-    } 
+    cursor: url('../../public/Selector.png'), auto;
 }
