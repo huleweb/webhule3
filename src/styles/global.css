@@ -10,3 +10,7 @@
 
   
 }
+
+body {
+    cursor: url("../../public/Selector.png"), auto;
+}
