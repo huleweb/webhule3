@@ -10,16 +10,16 @@
   font-family: 'Gill Sans';
   font-style: normal;
   font-weight: 400;
-  src: url('/fonts/Gill.otf') format('otf')
+  src: url('../../fonts/Gill.otf') format('otf')
 };
 
 @font-face {
-  font-family: 'sli';
+  font-family: 'Sli';
   font-style: normal;
   font-weight: 400;
   src: 
-    url('/fonts/Sli.woff') format('woff'),
-    url('/fonts/Sli.woff2') format('woff2');
+    url('../../fonts/Sli.woff') format('woff'),
+    url('../../fonts/Sli.woff2') format('woff2');
   };
 
   @font-face {
