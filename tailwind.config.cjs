@@ -4,9 +4,8 @@ module.exports = {
 	theme: {
 		extend: {
 			fontFamily: {
-				worksans: ['Work Sans', 'sans-serif'],
-				gillsans: ['Gill', 'sans-serif'],
-				mono: ['Sligoil-Micro', 'mono']
+				
+				sans: ['Gill', 'sans-serif']
 			  },
 			  
 		},
@@ -14,3 +13,6 @@ module.exports = {
 	plugins: [],
 }
 
+// worksans: ['Work Sans', 'sans-serif'],
+// gillsans: ['Gill', 'sans-serif'],
+// mono: ['Sligoil-Micro', 'mono'],
