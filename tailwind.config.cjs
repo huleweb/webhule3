@@ -5,11 +5,9 @@ module.exports = {
 		extend: {
 			fontFamily: {
 				worksans: ['Work Sans', 'sans-serif'],
-				gillsans: ['Gill Sans', 'sans-serif'],
-				mono: ['Sligoil-Micro', 'mono'],
-				sli: ['Sli', 'mono'],
-				gillbold: ['Gill Sans Bold', 'sans-serif'],
 				
+				gillsans: ['Gill Sans', 'sans-serif']
+                                                
 			  },
 			  
 		},
