@@ -5,9 +5,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400&display=swap");
 
 
-@layer base{
+
 @font-face {
-  font-family: 'gillsans';
+  font-family: 'Gill Sans';
   font-style: normal;
   font-weight: 400;
   src: url('/fonts/Gill.otf') format('otf')
@@ -29,4 +29,3 @@
     src: 
       url('/fonts/Sligoil-Micro.otf') format('otf')
   }
-}
