@@ -12,4 +12,12 @@
   font-weight: 400;
   src: local(''),
     url('/fonts/Gill.otf') format('otf')
+};
+
+@font-face {
+  font-family: 'Sli';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+    url('/fonts/Sli.woff') format('woff')
 }
