@@ -4,8 +4,12 @@
 
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400&display=swap");
 
+
+
 @font-face {
-  font-family: "Gill";
-  src: url("../../public/Gill\ Sans.otf");
-  
-};
+  font-family: 'Gill Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local(''),
+    url('/fonts/Gill.otf') format('otf')
+}
