@@ -5,6 +5,14 @@
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400&display=swap");
 
 
+@font-face {
+  font-family: 'Gill Sans Bold';
+  font-style: normal;
+ 
+  src: url('../fonts/Gill+Sans+Bold.otf') format('otf')
+  
+  
+};
 
 @font-face {
   font-family: 'Gill Sans';

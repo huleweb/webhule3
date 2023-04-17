@@ -8,6 +8,7 @@ module.exports = {
 				gillsans: ['Gill Sans', 'sans-serif'],
 				mono: ['Sligoil-Micro', 'mono'],
 				sli: ['Sli', 'mono'],
+				gillbold: ['Gill Sans Bold', 'sans-serif'],
 				
 			  },
 			  
