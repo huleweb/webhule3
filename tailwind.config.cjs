@@ -7,6 +7,7 @@ module.exports = {
 				worksans: ['Work Sans', 'sans-serif'],
 				gillsans: ["Gill", "sans-serif"],
 				sli: ["Sli", "serif"],
+				sligoil: ["Sligoil-Micro", "serif"]
 			  },
 			  
 		},

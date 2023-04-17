@@ -21,4 +21,12 @@
   src: local(''),
     url('/fonts/Sli.woff') format('woff'),
     url('/fonts/Sli.woff2') format('woff2');
-}
+  };
+
+  @font-face {
+    font-family: 'Sligoil';
+    font-style: normal;
+    font-weight: 400;
+    src: local(''),
+      url('/fonts/Sligoil-Micro.otf') format('otf')
+  }
