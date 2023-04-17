@@ -6,8 +6,7 @@ module.exports = {
 			fontFamily: {
 				worksans: ['Work Sans', 'sans-serif'],
 				gillsans: ["Gill", "sans-serif"],
-				sli: ['Sli', 'mono'],
-				sligoil: ['Sligoil-Micro', 'mono']
+				mono: ['Sli', 'mono']
 			  },
 			  
 		},
