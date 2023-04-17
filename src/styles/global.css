@@ -5,9 +5,9 @@
 @import url("https://fonts.googleapis.com/css2?family=Work+Sans:wght@300;400&display=swap");
 
 
-
+@layer base{
 @font-face {
-  font-family: 'Gill Sans';
+  font-family: 'gillsans';
   font-style: normal;
   font-weight: 400;
   src: local(''),
@@ -15,7 +15,7 @@
 };
 
 @font-face {
-  font-family: 'Sli';
+  font-family: 'sli';
   font-style: normal;
   font-weight: 400;
   src: local(''),
@@ -24,9 +24,10 @@
   };
 
   @font-face {
-    font-family: 'Sligoil-Micro', 'mono';
+    font-family: 'slilmicro', 'mono';
     font-style: normal;
     font-weight: 400;
     src: local(''),
       url('/fonts/Sligoil-Micro.otf') format('otf')
   }
+}
